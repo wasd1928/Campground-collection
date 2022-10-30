@@ -12,6 +12,7 @@ Currently the website is only available on local machine. It will be deployed on
 
 ## What does it look like?
 The homepage looks like this:
+<img src="./pictures/Screenshot 2022-10-29 231251.jpg"/>
 ![Homepage](pictures/Screenshot 2022-10-29 231251.jpg)
 
 There is the dynamic map:
