@@ -15,10 +15,10 @@ The homepage looks like this:
 ![Homepage](/pictures/Screenshot 2022-10-29 231251.jpg)
 
 There is the dynamic map:
-![Map](/pictures/Screenshot 2022-10-29 231311.jpg)
+![Map](pictures/Screenshot 2022-10-29 231311.jpg)
 
 There is a menu bar:
-![Map](/pictures/Screenshot 2022-10-29 231330.jpg)
+![Map](pictures/Screenshot 2022-10-29 231330.jpg)
 
 This is for user to register or login:
-![Map](/pictures/Screenshot 2022-10-29 231342.jpg)
+![Map](pictures/Screenshot 2022-10-29 231342.jpg)
