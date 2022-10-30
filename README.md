@@ -13,13 +13,12 @@ Currently the website is only available on local machine. It will be deployed on
 ## What does it look like?
 The homepage looks like this:
 <img src="./pictures/Screenshot 2022-10-29 231251.jpg"/>
-![Homepage](pictures/Screenshot 2022-10-29 231251.jpg)
 
 There is the dynamic map:
-![Map](pictures/Screenshot 2022-10-29 231311.jpg)
+<img src="./pictures/Screenshot 2022-10-29 231311.jpg"/>
 
 There is a menu bar:
-![Map](pictures/Screenshot 2022-10-29 231330.jpg)
+<img src="./pictures/Screenshot 2022-10-29 231330.jpg"/>
 
 This is for user to register or login:
-![Map](pictures/Screenshot 2022-10-29 231342.jpg)
+<img src="./pictures/Screenshot 2022-10-29 231342.jpg"/>
