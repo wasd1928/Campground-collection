@@ -21,7 +21,8 @@ const reviewRoutes = require('./routes/reviews');
 
 const MongoDBStore = require("connect-mongo")(session);
 
-const dbUrl = process.env.DB_URL;
+// const dbUrl = process.env.DB_URL;
+const dbUrl = 'mongodb+srv://first_user:tKa5FShf77bWfPHV@cluster0.tpqyh.mongodb.net/?retryWrites=true&w=majority';
 // const dbUrl = 'mongodb://localhost:27017/yelp-camp';
 
 mongoose.connect(dbUrl, {
